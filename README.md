@@ -6,6 +6,7 @@ Project Overview
 This project explores worldwide company layoffs between 2019 and 2025, analyzing trends across industries, countries, company stages, and funding levels.
 The goal is to perform end-to-end data cleaning, transformation, and exploratory data analysis (EDA) entirely using SQL (MySQL). This allows for deep insights into workforce reduction trends before, during, and after the pandemic.
 
+
 Objectives
 
 Data Cleaning & Preparation:
@@ -28,6 +29,8 @@ Examine layoffs over time (monthly, yearly, rolling totals)
 
 Analyze layoffs by company stage and funding
 
+
+
 Insights Generation:
 
 Identify patterns and trends in layoffs
@@ -35,6 +38,8 @@ Identify patterns and trends in layoffs
 Compare pre-pandemic and post-pandemic layoff scenarios
 
 Understand seasonal or recurring workforce changes
+
+
 
 Dataset
 
@@ -59,6 +64,9 @@ country – Country of the company
 
 funds_raised_in_dollars – Funding amount raised by the company
 
+
+
+
 Tools & Skills Used
 
 MySQL – for data cleaning, querying, and EDA
@@ -68,6 +76,8 @@ SQL Functions – GROUP BY, COUNT, SUM, MAX, MIN, DISTINCT, JOINs, CTEs, Window 
 Data Cleaning Techniques – Handling nulls, duplicates, trimming, and type conversion
 
 Problem-Solving & Analytical Skills – Extracting actionable insights from raw data
+
+
 
 Workflow
 1. Data Staging
@@ -109,6 +119,10 @@ Industry-wise, country-wise, and location-wise layoff analysis
 Stage-wise layoffs and trends
 
 Month-wise and year-wise trends with rolling totals
+
+
+
+
 
 Key Insights
 
